@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -prints a text according number
+ * main - prints a text according number
  * Return: Always (Success)
  *
  */
@@ -16,7 +16,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	lastd ';' n, % 10;
+	lastd = n % 10;
 
 	if (lastd > 5)
 	{
