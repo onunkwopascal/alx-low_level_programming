@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - print the sign of a number
+ * print_sign - prints the sign of a number
  *
  * @n: number whose sigh is to be printed
  *
