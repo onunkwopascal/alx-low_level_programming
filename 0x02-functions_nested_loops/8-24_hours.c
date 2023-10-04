@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * jack_bauer - prints every minute of the day of jack bauer, \ 
- starting from 00:00 to 23:59
+ * jack_bauer - prints every minute of the day of Jack Bauer, \ starting from 00:00 to 23:59
  *
  * Return: nothing on success
  */
 void jack_bauer(void)
 {
 
+	
 	int s = 0, e =23, s2 = 0, e2 = 59;
 
 	while (s <= e)
@@ -27,5 +27,4 @@ void jack_bauer(void)
 		s2 = 0;
 		s++;
 	}
-}	
-			
+}
