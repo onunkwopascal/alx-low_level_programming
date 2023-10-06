@@ -9,7 +9,7 @@
  * Return: nothing
  *
  */
-void free_grind(int **grind, int height)
+void free_grid(int **grid, int height)
 {
 	int i;
 
